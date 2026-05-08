@@ -24,3 +24,11 @@ Professional institutional-style market execution and options analytics terminal
 ## Vision
 
 DELTA DEX TERMINAL is designed to provide a professional-grade institutional trading experience focused on options flow, liquidity and realtime execution workflows.
+
+## Screenshots
+
+![Dashboard]
+
+![Chart]
+
+![FII DII]
